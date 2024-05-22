@@ -1,0 +1,5 @@
+- [ ] Normalize/Estandardize Features
+- [ ] Determine the Best K
+- [ ] Cross-Validation Protocols
+- [ ] Select Optimal K and Cross-Validation Strategy
+- [ ] Train and Evaluate the Final Model
